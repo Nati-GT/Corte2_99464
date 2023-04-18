@@ -1,0 +1,7 @@
+manejo de archivos
+para abrir un archivo en python se usa el comando
+
+"f=open(<NombreDelArchivo>,'rt')"
+
+se debe manipular los datos, relizando diferentes operaciones tales como 
+"rstrip(<CaracteresFinales>)"   "strip(CaracteresFinales>)"   "split(<Cadena>)" 
